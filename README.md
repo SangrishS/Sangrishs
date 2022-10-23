@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on my github webpage
+- 🌱 I’m currently learning Kotlin for app devlopment on android.
+- 📫 How to reach me: 
+Gmail :- Sangrish.saigiridhar2021@vitstudent.ac.in
 <!--
 **SangrishS/Sangrishs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
