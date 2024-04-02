@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my github webpage
-- 🌱 I’m currently learning Kotlin for app devlopment on android.
+- 🌱 I’m currently working on building my very own 1B parameter vision based LLM(Hopefully will get updates on it soon xD)
 - 📫 How to reach me: 
 Gmail :- Sangrish.saigiridhar2021@vitstudent.ac.in
 <!--
